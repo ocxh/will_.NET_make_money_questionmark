@@ -1,0 +1,10 @@
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\winform_basic_1\WindowsFormsApp_basic_1\WindowsFormsApp_basic_1\bin\Debug\WindowsFormsApp_basic_1.exe.config
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\winform_basic_1\WindowsFormsApp_basic_1\WindowsFormsApp_basic_1\bin\Debug\WindowsFormsApp_basic_1.exe
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\winform_basic_1\WindowsFormsApp_basic_1\WindowsFormsApp_basic_1\bin\Debug\WindowsFormsApp_basic_1.pdb
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\winform_basic_1\WindowsFormsApp_basic_1\WindowsFormsApp_basic_1\obj\Debug\WindowsFormsApp_basic_1.csproj.AssemblyReference.cache
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\winform_basic_1\WindowsFormsApp_basic_1\WindowsFormsApp_basic_1\obj\Debug\WindowsFormsApp_basic_1.Form1.resources
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\winform_basic_1\WindowsFormsApp_basic_1\WindowsFormsApp_basic_1\obj\Debug\WindowsFormsApp_basic_1.Properties.Resources.resources
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\winform_basic_1\WindowsFormsApp_basic_1\WindowsFormsApp_basic_1\obj\Debug\WindowsFormsApp_basic_1.csproj.GenerateResource.cache
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\winform_basic_1\WindowsFormsApp_basic_1\WindowsFormsApp_basic_1\obj\Debug\WindowsFormsApp_basic_1.csproj.CoreCompileInputs.cache
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\winform_basic_1\WindowsFormsApp_basic_1\WindowsFormsApp_basic_1\obj\Debug\WindowsFormsApp_basic_1.exe
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\winform_basic_1\WindowsFormsApp_basic_1\WindowsFormsApp_basic_1\obj\Debug\WindowsFormsApp_basic_1.pdb
