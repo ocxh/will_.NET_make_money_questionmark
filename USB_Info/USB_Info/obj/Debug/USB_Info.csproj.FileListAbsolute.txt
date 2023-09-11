@@ -1,0 +1,10 @@
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\USB_Info\USB_Info\bin\Debug\USB_Info.exe.config
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\USB_Info\USB_Info\bin\Debug\USB_Info.exe
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\USB_Info\USB_Info\bin\Debug\USB_Info.pdb
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\USB_Info\USB_Info\obj\Debug\USB_Info.csproj.AssemblyReference.cache
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\USB_Info\USB_Info\obj\Debug\USB_Info.Form1.resources
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\USB_Info\USB_Info\obj\Debug\USB_Info.Properties.Resources.resources
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\USB_Info\USB_Info\obj\Debug\USB_Info.csproj.GenerateResource.cache
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\USB_Info\USB_Info\obj\Debug\USB_Info.csproj.CoreCompileInputs.cache
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\USB_Info\USB_Info\obj\Debug\USB_Info.exe
+C:\Users\rr\Desktop\workspace\repo_.NET_BASIC\USB_Info\USB_Info\obj\Debug\USB_Info.pdb
